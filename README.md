@@ -7,7 +7,7 @@ Siga os passos abaixo para clonar o repositório e executar a aplicação:
 1. ### Clonar o repositório:
    Abra o terminal e execute o seguinte comando para clonar o repositório em um diretório de sua escolha:
    ```sh
-   git clone https://github.com/TaliaMendes/FeedBack_backend.git
+   git clone https://github.com/TaliaMendes/Trabalho_Banco_de_Dados2.git
    ```
 2. ### Acessar o diretório do projeto:
    Após clonar o repositório, entre no diretório do projeto:
